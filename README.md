@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple counter app showing practicing redux without using toolkit
 
 ## Available Scripts
 
